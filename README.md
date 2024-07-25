@@ -2,7 +2,7 @@
 
 Fish Survival Game
 
-![Clip](./Github_Images/Fish_Game_Clip.mov)
+![Clip](./Github_Images/Fish_Game_Clip.gif)
 ![Image1](./Github_Images/Screenshot%202024-07-24%20at%203.34.10 PM.png)
 ![Image2](./Github_Images/Screenshot%202024-07-24%20at%203.40.26 PM.png)
 
