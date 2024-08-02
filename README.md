@@ -1,6 +1,4 @@
-# Project Title
-
-Fish Survival Game
+# Gameplay
 
 ![Clip](./Github_Images/Fish_Game_Clip.gif)
 ![Image1](./Github_Images/Screenshot%202024-07-24%20at%203.34.10 PM.png)
